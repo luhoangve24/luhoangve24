@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @luhoangve24
-- Now, I'm studying at Banking Academy of Vietnam, a member of Falcuty of M.I.S
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👉👈 Now, I'm studying at Banking Academy of Vietnam, a member of Falcuty of M.I.S
+- 👀 I’m interested in taking Vuong Anh Quan for a walk
+- 🌱 I’m currently learning programming
+- 💞️ I’m looking to collaborate on researching about Rasa Chatbot
+- 📫 How to reach me: https://www.facebook.com/luhoangve/
 
 <!---
 luhoangve24/luhoangve24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
