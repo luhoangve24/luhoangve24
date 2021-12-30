@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luhoangve24
 - 👉👈 Now, I'm studying at Banking Academy of Vietnam, a member of Falcuty of M.I.S
-- 👀 I’m interested in taking Vuong Anh Quan for a walk
+- 👀 I’m interested in taking my friend for a walk
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on researching about Rasa Chatbot
 - 📫 How to reach me: https://www.facebook.com/luhoangve/
