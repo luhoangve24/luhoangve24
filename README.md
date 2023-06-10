@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @luhoangve24
 - 👉👈 Now, I'm studying at Banking Academy of Vietnam, a member of Falcuty of M.I.S
-- 👀 I’m interested in taking my friend for a walk
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on researching about Rasa Chatbot
+- 👀 I’m interested in taking my friend for a walk :P
+- 🌱 I’m currently learning Data Analytics, Automation with Python and maybe UI/UX (Google Certificate)
+- 💞️ I’m looking to have a gf ( :( )
 - 📫 How to reach me: https://www.facebook.com/luhoangve/
 
 <!---
