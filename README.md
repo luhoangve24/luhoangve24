@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luhoangve24
 - Now, I'm studying at Banking Academy of Vietnam, a member of Falcuty of M.I.S
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/luhoangve24/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/luhoangve24/)
 
 <!---
 luhoangve24/luhoangve24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
