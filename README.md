@@ -10,6 +10,5 @@ You can click the Preview link to take a look at your changes.
 > ... Les Brown
 
 <p align="center">
-  ![PicsArt_03-09-11 58 27](https://github.com/luhoangve24/luhoangve24/assets/92226066/f1d3afe1-8c33-4999-af9c-b032790bd2ef)
-  <img src="https://github.com/luhoangve24/luhoangve24/assets/92226066/f1d3afe1-8c33-4999-af9c-b032790bd2ef">
+  <img width=200 src="https://github.com/luhoangve24/luhoangve24/assets/92226066/f1d3afe1-8c33-4999-af9c-b032790bd2ef" alt="My Coffgo!">
 </p>
