@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luhoangve24
-- Now, I'm studying at Banking Academy of Vietnam, a member of Falcuty of M.I.S
+- Now, I'm studying at Banking Academy of Vietnam, a member of Falcuty of [I.T.D.E](http://itde.hvnh.edu.vn/) (M.I.S in 2023 before)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/luhoangve24/)
 
 <!---
